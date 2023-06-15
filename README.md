@@ -4,4 +4,6 @@ Prueba de repositorio Git
 ## INTRODUCCION
 Este es el índice
 
-- Buscar tutorial markdown 
+- Buscar tutorial markdown
+## MARCO TEÓRICO
+Este es el marco teórico
